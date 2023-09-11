@@ -55,7 +55,7 @@ pip install adtk streamlit plotly pandas
 
 ## Installation
 
-- Clone the repository: git clone <https://github.com/jrcsr/adtk-streamlit-project>
+- Clone the repository: `git clone <https://github.com/jrcsr/adtk-streamlit-project>`
 - Change to the repository directory: `cd adtk-streamlit-project`
 
 ## Usage
