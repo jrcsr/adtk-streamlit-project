@@ -9,6 +9,8 @@ The ADTK methods settings may not be optimal for any relevant results, but this 
 
 This app is running and you can check the demo on the link below :
 
+https://adtk-tool-project.streamlit.app
+
 
 ## Examples - Video
 
