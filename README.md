@@ -62,5 +62,5 @@ pip install adtk streamlit plotly pandas
 
 ## Usage
 
-- Run the app with the following command: `streamlit run app.py`
+- Run the app with the following command: `streamlit run ADTK_AnomalyDetectionTool.py`
 - The app should open in a new browser window.
