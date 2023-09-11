@@ -12,6 +12,32 @@ This app is running and you can check the demo on the link below :
 
 ## Examples - Images
 
+### 1 - Import some data
+
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/step1.png" >
+- Select the file you want to analyze
+
+### 2 - Select your features and method of analysis
+
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/step2.png" >
+- Select in the right order the 2 columns required and the anomaly detection method
+
+### 3 - Configure your model
+
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/step3.png" >
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/step3bis.png" >
+- Enter your parameter for the analysis before clicking on the "Start Analysis" button
+
+### 4 - Results and data exportation
+
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/results1.png" >
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/results2.png" >
+- Visualize the results in a graphic fromat as well as in a table format
+
+<img src="https://github.com/jrcsr/adtk-streamlit-project/tree/main/assets/download.png" >
+- Click on the Download button to get the .csv file of the detected anomalies from your uploaded file
+
+
 ## Requirements
 
 Python 3.7+
