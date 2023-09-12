@@ -5,8 +5,6 @@ from adtk.detector import *
 import plotly.express as px 
 import plotly.graph_objects as go
 
-### test ###
-
 st.set_page_config(layout="wide", page_icon="📈")
 
 if 'stage' not in st.session_state:
