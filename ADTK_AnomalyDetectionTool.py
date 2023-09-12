@@ -52,18 +52,20 @@ def format_and_display(data, anomalies, value):
                 go.Table(
                     header=dict(
                         values=["date"] + list(table_d.columns),
-                        align="left",
+                        align="center",
                         font=dict(
-                            size=14,
+                            size=16,
                         ),
+                        height=30,
                     ),
                     cells=dict(
                         values=[table_d.index, table_d["anomaly"], table_d[value]],
-                        align="left",
+                        align="center",
                         fill=dict(color=fill_color),
                         font=dict(
-                            size=14,
+                            size=16,
                         ),
+                        height=30,
                     ),
                 )
             ]
